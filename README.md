@@ -23,7 +23,7 @@ const Manuel = {
   stack:       ["Vue 3", "Nuxt 4", "Laravel", "Flutter", "Flask", "React"],
   databases:   ["SQL Server", "MySQL", "PostgreSQL"],
   actualmente: "Finalizando titulación en Ing. Software con IA @ SENATI (2026)",
-  buscando:    "Primera posición fullstack en equipo ágil 🚀",
+  buscando:    "Puesto de Fullstack Developer Junior o Programador Web 🚀",
 };
 ```
 
