@@ -17,10 +17,10 @@
 
 ```typescript
 const Manuel = {
-  edad:        "20"
+  edad:        "20",
   ubicacion:   "San Juan de Lurigancho, Lima 🇵🇪",
   rol:         "Full Stack Developer",
-  experiencia: "+13 meses · 4 empresas · entregables en producción",
+  experiencia: "+1 año · 4 empresas",
   stack:       ["Vue 3", "Nuxt 4", "Laravel", "Flutter", "Flask", "React"],
   databases:   ["SQL Server", "MySQL", "PostgreSQL"],
   actualmente: "Finalizando titulación en Ing. Software con IA @ SENATI (2026)",
